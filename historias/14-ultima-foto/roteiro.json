@@ -1,0 +1,67 @@
+{
+ "titulo": "A última foto",
+ "voz": "pt-BR-AntonioNeural",
+ "drama": [
+  "minha.",
+  "manhã.",
+  "porta.",
+  "sozinho.",
+  "foto.",
+  "celular.",
+  "compridas.",
+  "dentro."
+ ],
+ "cenas": [
+  {
+   "fala": "Eu sempre deixo o celular carregando na cômoda, do lado da cama."
+  },
+  {
+   "fala": "Ontem de manhã, eu fui ver as fotos de um aniversário."
+  },
+  {
+   "fala": "E a última foto da galeria não era minha."
+  },
+  {
+   "fala": "Era uma foto de mim. Dormindo. Tirada às três e trinta e três da manhã."
+  },
+  {
+   "fala": "O ângulo era de dentro do quarto. Do lado da porta."
+  },
+  {
+   "fala": "Eu moro sozinho."
+  },
+  {
+   "fala": "Eu chequei as portas, as janelas, tudo estava trancado."
+  },
+  {
+   "fala": "Achei que era algum aplicativo com defeito. Apaguei a foto e tentei esquecer."
+  },
+  {
+   "fala": "Hoje de manhã, tinha outra foto."
+  },
+  {
+   "fala": "Mais perto. Do lado da cama. Às três e trinta e três."
+  },
+  {
+   "fala": "E dessa vez, dava pra ver uma mão segurando o celular."
+  },
+  {
+   "fala": "Uma mão magra, cinza, com as unhas compridas."
+  },
+  {
+   "fala": "Eu não dormi em casa. Fui pra casa de um amigo."
+  },
+  {
+   "fala": "Deixei o celular lá, na cômoda, de propósito."
+  },
+  {
+   "fala": "Agora são três e trinta e dois. Eu tô olhando a galeria pelo computador."
+  },
+  {
+   "fala": "E acabou de aparecer uma foto nova."
+  },
+  {
+   "fala": "É uma foto da porta da casa do meu amigo. Tirada de dentro."
+  }
+ ]
+}

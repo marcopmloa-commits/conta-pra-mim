@@ -1,0 +1,67 @@
+{
+ "titulo": "A caixa no sótão",
+ "voz": "pt-BR-FranciscaNeural",
+ "drama": [
+  "trancada.",
+  "minha.",
+  "mim.",
+  "acontecido.",
+  "hein.",
+  "nasci.",
+  "lacrada.",
+  "menina."
+ ],
+ "cenas": [
+  {
+   "fala": "Quando a minha avó se mudou pra um asilo, eu fui ajudar a esvaziar a casa dela."
+  },
+  {
+   "fala": "No sótão, embaixo de um monte de cobertores, eu achei uma caixa de madeira trancada."
+  },
+  {
+   "fala": "Ela era pesada, e tinha o meu nome escrito na tampa."
+  },
+  {
+   "fala": "O estranho é que a letra parecia a minha."
+  },
+  {
+   "fala": "Eu procurei a chave pela casa inteira, e achei dentro de um livro de receitas."
+  },
+  {
+   "fala": "Dentro da caixa tinha cartas. Dezenas delas. Todas endereçadas a mim."
+  },
+  {
+   "fala": "A primeira dizia: você vai encontrar isso quando a vó for embora. Não fique triste."
+  },
+  {
+   "fala": "Cada carta falava de algo que ia acontecer na minha vida. E tudo tinha acontecido."
+  },
+  {
+   "fala": "A minha mudança, o meu primeiro emprego, até o nome do meu namorado."
+  },
+  {
+   "fala": "Eu corri pro asilo com a caixa nos braços."
+  },
+  {
+   "fala": "A minha avó sorriu quando me viu e disse: demorou, hein."
+  },
+  {
+   "fala": "Ela me contou que, quando era jovem, tinha sonhos que se realizavam."
+  },
+  {
+   "fala": "E que sonhou com a minha vida inteira na noite em que eu nasci."
+  },
+  {
+   "fala": "Ela escreveu tudo, pra eu nunca me sentir sozinha nas partes difíceis."
+  },
+  {
+   "fala": "Só que, no fundo da caixa, tinha uma última carta. Lacrada."
+  },
+  {
+   "fala": "Do lado de fora, ela escreveu: só abra quando você tiver uma filha."
+  },
+  {
+   "fala": "Ontem, eu descobri que estou grávida. De uma menina."
+  }
+ ]
+}

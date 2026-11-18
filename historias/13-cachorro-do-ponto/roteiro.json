@@ -1,0 +1,67 @@
+{
+ "titulo": "O cachorro do ponto",
+ "voz": "pt-BR-AntonioNeural",
+ "drama": [
+  "ponto.",
+  "rabo.",
+  "mais.",
+  "tarde.",
+  "casa.",
+  "esperando.",
+  "nele.",
+  "Zé."
+ ],
+ "cenas": [
+  {
+   "fala": "Todo dia, às seis da tarde, o seu Zé descia do ônibus no mesmo ponto."
+  },
+  {
+   "fala": "E todo dia, o Caramelo estava lá, esperando, abanando o rabo."
+  },
+  {
+   "fala": "Os dois voltavam juntos pra casa, devagar, pela mesma calçada."
+  },
+  {
+   "fala": "Um dia, o seu Zé passou mal no trabalho, e não voltou mais."
+  },
+  {
+   "fala": "Mas o Caramelo continuou indo pro ponto. Todo dia, às seis da tarde."
+  },
+  {
+   "fala": "Ele esperava cada ônibus chegar, olhava cada porta abrir."
+  },
+  {
+   "fala": "E quando o último ônibus passava, ele voltava sozinho pra casa."
+  },
+  {
+   "fala": "Os vizinhos começaram a levar comida e água pra ele."
+  },
+  {
+   "fala": "Fizeram uma casinha embaixo do ponto, com cobertor e tudo."
+  },
+  {
+   "fala": "Passou o inverno. Passou um ano inteiro. E ele continuou esperando."
+  },
+  {
+   "fala": "Até que um dia, desceu do ônibus uma moça com uma mala."
+  },
+  {
+   "fala": "Era a neta do seu Zé, que morava em outro estado."
+  },
+  {
+   "fala": "Ela tinha vindo buscar as coisas do avô. E viu o Caramelo no ponto."
+  },
+  {
+   "fala": "Ele correu até ela e cheirou a mão dela. Ela tinha o mesmo cheiro do seu Zé."
+  },
+  {
+   "fala": "Ela sentou no chão e chorou abraçada nele."
+  },
+  {
+   "fala": "Hoje, o Caramelo mora com ela. Mas todo dia, às seis da tarde,"
+  },
+  {
+   "fala": "ele ainda senta na janela e olha pra rua. Como quem diz: eu ainda tô aqui, seu Zé."
+  }
+ ]
+}

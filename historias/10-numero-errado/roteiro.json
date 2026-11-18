@@ -1,0 +1,61 @@
+{
+ "titulo": "O número errado",
+ "voz": "pt-BR-FranciscaNeural",
+ "drama": [
+  "desconhecido.",
+  "hora.",
+  "você.",
+  "junto.",
+  "vida."
+ ],
+ "cenas": [
+  {
+   "fala": "Era uma madrugada de domingo quando eu recebi uma mensagem de um número desconhecido."
+  },
+  {
+   "fala": "Oi, mãe, cheguei bem. O ônibus atrasou, mas tá tudo certo."
+  },
+  {
+   "fala": "Eu respondi: acho que você errou o número, mas que bom que chegou bem."
+  },
+  {
+   "fala": "Ele pediu desculpa e mandou uma foto do pôr do sol da cidade nova."
+  },
+  {
+   "fala": "A gente começou a conversar. Sobre a cidade, sobre música, sobre tudo."
+  },
+  {
+   "fala": "Todo dia de manhã, chegava um bom dia. E toda noite, um boa noite."
+  },
+  {
+   "fala": "Seis meses depois, a gente ainda não sabia como era o rosto um do outro."
+  },
+  {
+   "fala": "Até que ele disse que ia voltar pra minha cidade no Natal."
+  },
+  {
+   "fala": "A gente marcou num café. Eu cheguei meia hora antes, tremendo."
+  },
+  {
+   "fala": "Ele entrou. E eu reconheci na hora."
+  },
+  {
+   "fala": "Era o menino que sentava atrás de mim na escola. O que eu gostava escondido há anos."
+  },
+  {
+   "fala": "Ele também me reconheceu. E disse: eu nunca tive coragem de falar com você."
+  },
+  {
+   "fala": "Foi preciso errar um número pra gente se encontrar de novo."
+  },
+  {
+   "fala": "Hoje, a gente mora junto."
+  },
+  {
+   "fala": "E a mãe dele ainda pergunta, rindo, quem foi que recebeu a mensagem dela."
+  },
+  {
+   "fala": "E eu respondo: fui eu. A melhor mensagem errada da minha vida."
+  }
+ ]
+}

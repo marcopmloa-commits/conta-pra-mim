@@ -1,0 +1,66 @@
+{
+ "titulo": "O primeiro encontro",
+ "voz": "pt-BR-AntonioNeural",
+ "drama": [
+  "história.",
+  "inteira.",
+  "tudo.",
+  "vento.",
+  "olhar.",
+  "anos.",
+  "mesa."
+ ],
+ "cenas": [
+  {
+   "fala": "O meu primeiro encontro com a Júlia foi o maior desastre da história."
+  },
+  {
+   "fala": "Eu cheguei atrasado, porque o ônibus quebrou no meio do caminho."
+  },
+  {
+   "fala": "Corri tanto que cheguei suado, sem fôlego e com a camisa pra fora."
+  },
+  {
+   "fala": "No restaurante, eu fui puxar a cadeira pra ela e derrubei a mesa inteira."
+  },
+  {
+   "fala": "O garçom escorregou no suco e caiu em cima de mim."
+  },
+  {
+   "fala": "Eu fiquei todo molhado de laranja, na frente de todo mundo."
+  },
+  {
+   "fala": "Pra piorar, quando a conta chegou, eu descobri que tinha esquecido a carteira."
+  },
+  {
+   "fala": "A Júlia teve que pagar tudo."
+  },
+  {
+   "fala": "Na saída, começou a chover. E o meu guarda-chuva quebrou na primeira rajada de vento."
+  },
+  {
+   "fala": "Eu olhei pra ela e pedi desculpa. Disse que entendia se ela nunca mais quisesse me ver."
+  },
+  {
+   "fala": "Ela ficou em silêncio. Molhada, olhando pra mim."
+  },
+  {
+   "fala": "E começou a rir. Uma risada tão alta que as pessoas pararam pra olhar."
+  },
+  {
+   "fala": "Ela disse que foi o encontro mais divertido da vida dela."
+  },
+  {
+   "fala": "E que ia me dar uma segunda chance. Desde que eu pagasse o próximo."
+  },
+  {
+   "fala": "Isso foi há cinco anos."
+  },
+  {
+   "fala": "Ontem, eu pedi ela em casamento. No mesmo restaurante. Na mesma mesa."
+  },
+  {
+   "fala": "Ela disse sim. E dessa vez, ninguém derrubou nada. Quer dizer, quase ninguém."
+  }
+ ]
+}
