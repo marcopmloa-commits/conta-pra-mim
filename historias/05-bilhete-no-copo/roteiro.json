@@ -1,0 +1,63 @@
+{
+ "titulo": "O bilhete no copo",
+ "voz": "pt-BR-FranciscaNeural",
+ "drama": [
+  "copo.",
+  "lá.",
+  "nome.",
+  "ligado."
+ ],
+ "cenas": [
+  {
+   "fala": "Todo dia, antes do trabalho, eu passava no mesmo café da esquina."
+  },
+  {
+   "fala": "E todo dia, o barista escrevia uma frase diferente no meu copo."
+  },
+  {
+   "fala": "Bom dia, sorriso bonito. Hoje vai dar tudo certo. Você fica linda de azul."
+  },
+  {
+   "fala": "Eu achava aquilo um charme, mas ele era tão tímido que nunca olhava nos meus olhos."
+  },
+  {
+   "fala": "Um dia, o meu copo veio sem frase nenhuma."
+  },
+  {
+   "fala": "Eu fiquei estranhamente triste. Olhei pro balcão, e ele não estava lá."
+  },
+  {
+   "fala": "No dia seguinte, também não. Nem no outro."
+  },
+  {
+   "fala": "Uma semana depois, eu criei coragem e perguntei pra dona do café."
+  },
+  {
+   "fala": "Ela sorriu e me entregou um envelope com o meu nome."
+  },
+  {
+   "fala": "Dentro tinha todos os copos que ele não teve coragem de me entregar."
+  },
+  {
+   "fala": "E um bilhete: eu fui transferido pra outra cidade. Se um dia quiser um café de verdade, me liga."
+  },
+  {
+   "fala": "Eu liguei na mesma hora. Meu coração batia tão forte que eu mal conseguia falar."
+  },
+  {
+   "fala": "Ele atendeu e ficou em silêncio. Até que eu disse: você esqueceu de escrever no meu copo."
+  },
+  {
+   "fala": "Ele riu. Pela primeira vez, eu ouvi a risada dele."
+  },
+  {
+   "fala": "Três semanas depois, ele voltou pra cidade só pra me ver."
+  },
+  {
+   "fala": "Hoje, a gente tem um café juntos. E todo dia, eu ainda acho uma frase no meu copo."
+  },
+  {
+   "fala": "A de hoje dizia: obrigado por ter ligado."
+  }
+ ]
+}
