@@ -1,0 +1,66 @@
+{
+ "titulo": "A ligação da vó",
+ "voz": "pt-BR-AntonioNeural",
+ "drama": [
+  "passado.",
+  "hoje.",
+  "desligou.",
+  "devagar.",
+  "hora.",
+  "rir.",
+  "muitas."
+ ],
+ "cenas": [
+  {
+   "fala": "A minha avó morreu em março do ano passado."
+  },
+  {
+   "fala": "Numa noite de chuva, eu estava sozinho em casa quando o celular tocou."
+  },
+  {
+   "fala": "Na tela apareceu: Vó. O número dela, que ninguém nunca cancelou."
+  },
+  {
+   "fala": "Eu atendi tremendo. E ouvi a voz dela, igualzinha."
+  },
+  {
+   "fala": "Ela disse: meu neto, presta atenção. Não abre a porta pro seu irmão hoje."
+  },
+  {
+   "fala": "E desligou."
+  },
+  {
+   "fala": "Eu liguei de volta. Número inexistente."
+  },
+  {
+   "fala": "Dez minutos depois, alguém bateu na porta. Três batidas, devagar."
+  },
+  {
+   "fala": "E a voz do meu irmão, do lado de fora: abre aí, sou eu, esqueci a chave."
+  },
+  {
+   "fala": "Eu fui até a porta. A minha mão já estava na fechadura."
+  },
+  {
+   "fala": "Foi quando o meu celular vibrou. Uma mensagem do meu irmão."
+  },
+  {
+   "fala": "Ele dizia: tô preso no trânsito, chego em uma hora."
+  },
+  {
+   "fala": "As batidas continuaram, mais fortes. E a voz do lado de fora começou a rir."
+  },
+  {
+   "fala": "Eu fiquei a noite inteira sentado no chão, encostado na porta, segurando a maçaneta."
+  },
+  {
+   "fala": "Quando amanheceu, as batidas pararam."
+  },
+  {
+   "fala": "Na porta, do lado de fora, tinha marcas de unhas. Muitas."
+  },
+  {
+   "fala": "E no chão, um bilhete com a letra da minha avó: eu sempre vou cuidar de você."
+  }
+ ]
+}

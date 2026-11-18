@@ -1,0 +1,65 @@
+{
+ "titulo": "A corrida das 4h",
+ "voz": "pt-BR-FranciscaNeural",
+ "drama": [
+  "errado.",
+  "pessoa.",
+  "calma.",
+  "entrar.",
+  "corre!",
+  "delegacia."
+ ],
+ "cenas": [
+  {
+   "fala": "Eram quatro da manhã quando eu pedi um carro de aplicativo pra voltar de uma festa."
+  },
+  {
+   "fala": "O carro chegou rápido. Um sedã prata. O motorista não disse uma palavra."
+  },
+  {
+   "fala": "Eu sentei atrás e fiquei mexendo no celular."
+  },
+  {
+   "fala": "Depois de uns minutos, eu percebi que ele estava indo pelo caminho errado."
+  },
+  {
+   "fala": "Eu falei: moço, a minha casa é pro outro lado. Ele não respondeu. Só acelerou."
+  },
+  {
+   "fala": "Meu coração disparou. Eu abri o aplicativo pra mandar minha localização pra alguém."
+  },
+  {
+   "fala": "E aí eu vi. A foto do motorista no aplicativo era de outra pessoa."
+  },
+  {
+   "fala": "A placa também era diferente."
+  },
+  {
+   "fala": "Eu já estava com a mão na maçaneta quando ele finalmente falou."
+  },
+  {
+   "fala": "Ele disse, olhando pelo retrovisor: não olhe pro lado. Fica calma."
+  },
+  {
+   "fala": "Tinha um homem sentado do meu lado, no banco de trás. Eu não tinha visto ele entrar."
+  },
+  {
+   "fala": "O motorista parou na frente de uma delegacia e gritou: corre!"
+  },
+  {
+   "fala": "Eu corri sem olhar pra trás."
+  },
+  {
+   "fala": "Os policiais voltaram comigo até a rua. O carro prata tinha sumido."
+  },
+  {
+   "fala": "Um deles ficou sério quando eu contei a história."
+  },
+  {
+   "fala": "Ele disse que um motorista morreu naquela avenida, há dez anos, tentando salvar uma passageira."
+  },
+  {
+   "fala": "E que eu era a terceira pessoa que ele trazia até aquela delegacia."
+  }
+ ]
+}
